@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5715d3f8-901d-4d91-a6dc-135aed1d021d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/profile/LoginPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/profile/ProfilePage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/profile/RegisterPage.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/components/profile/information1.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/FPcomponents/FpToggle.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/FPcomponents/FpToggle.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/films/FilmPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/films/FilmPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/films/RepertoirePage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/films/RepertoirePage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/seanse/SallPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/seanse/SallPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/seanse/ShopPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/seanse/ShopPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/shop/TicketPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/shop/TicketPage.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/webpack-stats.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/webpack-stats.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysqlconnection/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysqlconnection/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,13 +24,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1dDcjbO0p7nLwoPiaARms4TdWnl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -117,6 +104,7 @@
       <workItem from="1592003265538" duration="180000" />
       <workItem from="1592003662942" duration="12562000" />
       <workItem from="1592142371175" duration="1693000" />
+      <workItem from="1592150196063" duration="915000" />
     </task>
     <servers />
   </component>
